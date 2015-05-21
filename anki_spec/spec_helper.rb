@@ -1,0 +1,10 @@
+require_relative '../card'
+require_relative '../youdao_resource'
+require_relative '../baidu_han_resource'
+require_relative '../log'
+require_relative '../db'
+require_relative '../decks'
+
+require 'Nokogiri'
+require 'open-uri'
+require 'sqlite3'
